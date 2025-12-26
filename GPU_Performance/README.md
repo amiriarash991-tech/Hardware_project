@@ -24,9 +24,9 @@
 
 |--------|--------|
 
-| مانیتورینگ CPU در Task Manager | !\[CPU Monitor](cpu\_usage.png) |
+| مانیتورینگ CPU در Task Manager | !\[CPU Monitor](CPU_Monitor.png) |
 
-| مانیتورینگ GPU در Task Manager | !\[GPU Monitor](gpu\_usage.png) |
+| |
 
 
 
