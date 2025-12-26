@@ -1,39 +1,21 @@
-\# 📍 01 - System Information (مشخصات سیستم)
+# 📍 01 - System Information
 
+This section provides an initial hardware overview to establish a baseline for troubleshooting.  
+By identifying the main components and their specifications, we verify that the system is being detected correctly by the OS.
 
+## 🖥️ Checked Components
+- CPU model and generation
+- Installed RAM capacity
+- Storage (HDD/SSD type & capacity)
+- GPU model
+- Operating system version
 
-در این بخش مشخصات کامل سیستم بررسی شد تا یک دید اولیه از وضعیت سخت‌افزار داشته باشیم.
+## 📸 Screenshots
+| Description | Image |
+|-------------|--------|
+| Windows Settings - System Overview | ![System Info](system_info.png) |
+| Task Manager Hardware Summary | ![Performance](system_info_2.png) |
 
-
-
-\## 🖥️ موارد بررسی شده
-
-\- مدل CPU
-
-\- مقدار RAM
-
-\- نوع و ظرفیت Storage (هارد/SSD)
-
-\- مدل GPU
-
-\- نسخه سیستم‌عامل
-
-
-
-\## 📸 تصاویر ثبت‌شده
-
-| توضیح | تصویر |
-
-|--------|--------|
-
-| مشخصات سیستم در Windows Settings | ![System Info](system_info.png)
-
-
-|
-
-
-
-\## 🎯 نتیجه
-
-این اطلاعات پایه برای تشخیص کندی، سازگاری سخت‌افزار و شروع عیب‌یابی ضروری هستند.
+## 🎯 Conclusion
+This information confirms that the system hardware is detected correctly and provides a refer.
 
