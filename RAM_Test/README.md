@@ -12,8 +12,9 @@ Monitoring memory usage helps confirm whether applications are overloading the s
 ## 📸 Screenshots
 | Description | Image |
 |-------------|--------|
-| Real-time RAM usage in Task Manager | ![RAM Usage](RAM_Test.png) |
-| Checking active memory load from running apps | ![RAM Apps](ram_check_2.png) |
+| Real-time RAM usage in Task Manager | ![RAM Usage](RAM_Diagnostic.png) |
+| Checking active memory load from running apps | ![RAM Apps](RAM_Test.png) |
 
 ## 🎯 Conclusion
 RAM is functioning normally, without abnormal load or instability. Performance issues are unlikely to be memory-related.
+
