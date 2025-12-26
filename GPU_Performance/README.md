@@ -1,3 +1,1 @@
- 
-
-![CPU](CPU.png)
+ ![CPU](CPU.png)
