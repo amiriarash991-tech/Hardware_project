@@ -12,10 +12,11 @@ Slow or damaged drives are one of the most common causes of system lag.
 | Description | Image |
 |-------------|--------|
 | Disk error check from Tools menu | ![Disk Status](storage_info.png) |
-| Performance/Optimization result | ![Disk Optimize](storage_Speed.png) |
+| Performance/Optimization result | ![Disk Optimize](storage_speed.png) |
 
 ## 🎯 Conclusion
 No storage errors were detected. The drive is operating under normal conditions and is unlikely to be the source of major slowdowns.
+
 
 
 
