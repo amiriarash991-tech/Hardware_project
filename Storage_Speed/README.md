@@ -11,7 +11,8 @@
 | توضیح | تصویر |
 |--------|--------|
 | Properties → Tools → Check | ![Disk Status](storage_info.png) |
-| Optimize / Analyze Drive | ![Disk Optimize](storage_speed.png) |
+| Optimize / Analyze Drive | ![Disk Optimize](storage_Speed.png) |
 
 ## 🎯 نتیجه
 درایو در وضعیت عادی قرار دارد و مشکلی در بخش Storage که باعث کندی شدید شود مشاهده نشد.
+
