@@ -34,7 +34,9 @@
 
 
 
-![CPU](CPU.png)
+## Final Image Test
+<img src="CPU.png" width="400">
+
 
 
 
