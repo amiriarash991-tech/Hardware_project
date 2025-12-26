@@ -1,20 +1,21 @@
-# 📍 03 - Storage Test (تست حافظه و دیسک)
+# 📍 03 - Storage Test (HDD/SSD)
 
-در این بخش وضعیت هارد/SSD بررسی شد تا عملکرد ذخیره‌سازی و سلامت آن مشخص شود.
+This section checks the health and performance of the storage device.  
+Slow or damaged drives are one of the most common causes of system lag.
 
-## 💽 موارد بررسی شده
-- وضعیت درایو از طریق Properties
-- بررسی خطا با گزینه Error Checking
-- Optimize / Defrag برای تحلیل عملکرد
+## 💽 Tested Items
+- Basic error checking via Properties → Tools
+- Drive optimization analysis (Defrag/Trim)
+- General performance behavior during normal tasks
 
-## 📸 تصاویر ثبت شده
-| توضیح | تصویر |
-|--------|--------|
-| Properties → Tools → Check | ![Disk Status](Storage_info.png) |
-| Optimize / Analyze Drive | ![Disk Optimize](Storage_Speed.png) |
+## 📸 Screenshots
+| Description | Image |
+|-------------|--------|
+| Disk error check from Tools menu | ![Disk Status](storage_info.png) |
+| Performance/Optimization result | ![Disk Optimize](storage_Speed.png) |
 
-## 🎯 نتیجه
-درایو در وضعیت عادی قرار دارد و مشکلی در بخش Storage که باعث کندی شدید شود مشاهده نشد..
+## 🎯 Conclusion
+No storage errors were detected. The drive is operating under normal conditions and is unlikely to be the source of major slowdowns.
 
 
 
