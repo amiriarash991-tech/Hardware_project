@@ -1,23 +1,19 @@
-# 📍 02 - RAM Test (تست رم)
+# 📍 02 - RAM Test
 
-در این مرحله وضعیت RAM بررسی شد تا مشخص شود کندی سیستم از بخش حافظه موقت نیست.
+In this stage, the system memory (RAM) was inspected to ensure it is not the cause of performance slowdown.  
+Monitoring memory usage helps confirm whether applications are overloading the system.
 
-## 🧠 موارد بررسی شده
-- مقدار RAM در دسترس
-- مصرف لحظه‌ای RAM
-- برنامه‌هایی که بیشترین مصرف را دارند
-- وضعیت سلامت اولیه RAM
+## 🧠 Evaluated Factors
+- Total RAM vs. usable RAM
+- Real-time usage in Task Manager
+- Top memory-consuming applications
+- Basic RAM stability under normal workload
 
-## 📸 تصاویر ثبت‌شده
-| توضیح | تصویر |
-|--------|--------|
-| میزان مصرف RAM در Task Manager | ![RAM Usage](RAM_Diagnostic.png) |
-|*Initial RAM recognition check – Modules detected, no primary errors found* | ![RAM Apps](RAM_Test.png) |
+## 📸 Screenshots
+| Description | Image |
+|-------------|--------|
+| Real-time RAM usage in Task Manager | ![RAM Usage](RAM_Test.png) |
+| Checking active memory load from running apps | ![RAM Apps](ram_check_2.png) |
 
-## 🎯 نتیجه
-RAM در وضعیت پایدار قرار دارد و مشکل کندی از کمبود حافظه یا مصرف غیرعادی نبود.
-
-
-
-
-
+## 🎯 Conclusion
+RAM is functioning normally, without abnormal load or instability. Performance issues are unlikely to be memory-related.
