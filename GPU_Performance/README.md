@@ -24,13 +24,17 @@
 
 |--------|--------|
 
-| مانیتورینگ CPU در Task Manager | ![CPU_Monitor](CPU_Monitor.png)
+| مانیتورینگ CPU در 
+
+ 
 
  |
 
 | |
 
 
+### Image Test
+![CPU Monitor](CPU_Monitor.png)
 
 
 
