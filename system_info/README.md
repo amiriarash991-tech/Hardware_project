@@ -26,7 +26,7 @@
 
 |--------|--------|
 
-| مشخصات سیستم در Windows Settings | ![System Info](system_info/system_info.png)
+| مشخصات سیستم در Windows Settings | ![System Info](system_info.png)
 
 
 |
