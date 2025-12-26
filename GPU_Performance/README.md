@@ -1,50 +1,54 @@
-\# 📍 04 - CPU \& GPU Monitor (مانیتورینگ پردازنده و گرافیک)
+.
+# 📍 GPU Performance Monitoring
 
+This section focuses on monitoring GPU (Graphics Processing Unit) usage to ensure stable performance and detect potential bottlenecks that could affect system responsiveness.
 
+---
 
-هدف: بررسی علت کندی احتمالی سیستم از طریق تحلیل مصرف CPU و GPU.
+## 🎯 Purpose of This Test
+The goal is to analyze GPU behavior during normal desktop operations and light workloads, including:
+- Real-time GPU usage
+- Memory consumption
+- Background application load
+- Thermal or performance spikes
+- Potential interference with CPU performance
 
+---
 
+## ⚙️ What Was Checked
+- Live GPU usage in Task Manager
+- GPU memory usage and allocation
+- GPU load caused by active programs
+- Stability of GPU performance under normal tasks
+- Monitoring for abnormal spikes or throttling
 
-\## ⚙️ موارد بررسی شده
+---
 
-\- استفاده لحظه‌ای CPU
+## 📸 Screenshots
+| Description | Image |
+|-------------|--------|
+| GPU usage overview | ![GPU Monitor](GPU_Performance.png) |
+|  
+|  
 
-\- دمای تقریبی و فشار پردازش
+> Ensure the image files are located in the **same folder** as this README for proper display.
 
-\- میزان مصرف GPU در حالت عادی
+---
 
-\- تشخیص برنامه‌های سنگین
+## 🧾 Results
+| Checkpoint | Status |
+|------------|---------|
+| Idle GPU usage | Normal |
+| Application load | Stable |
+| Memory usage | Within expected range |
+| Thermal behavior | No throttling detected |
 
+GPU performance is stable, and no abnormal behavior was observed that could impact system performance.
 
+---
 
-\## 📸 تصاویر ثبت‌شده
+## 🚀 Conclusion
+The GPU is functioning normally and is **not a source of performance issues**.  
+Potential slowdowns are likely caused by software or background tasks rather than graphics hardware.
 
-| توضیح | تصویر |
-
-|--------|--------|
-
-| مانیتورینگ CPU در 
-
- 
-
- |
-
-| |
-
-
-### Image Test
-
-
-
-
-\## 🎯 نتیجه
-
-
-
-
-
-![CPU Monitor](GPU_Performance.png)
-
-
-مصرف قطعات در وضعیت عادی است و هیچ رفتار غیرطبیعی که باعث کندی سیستم شود مشاهده نشد.
+➡️ **Next Step Recommendation:** Combine GPU and CPU analysis with overall system monitoring or move to software-level optimization tests.
