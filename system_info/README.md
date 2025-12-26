@@ -14,7 +14,7 @@ By identifying the main components and their specifications, we verify that the 
 | Description | Image |
 |-------------|--------|
 | Windows Settings - System Overview | ![System Info](system_info.png) |
-| Task Manager Hardware Summary | ![Performance](system_info_2.png) |
+ 
 
 ## 🎯 Conclusion
 This information confirms that the system hardware is detected correctly and provides a refer.
