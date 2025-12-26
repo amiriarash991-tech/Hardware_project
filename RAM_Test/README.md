@@ -12,10 +12,11 @@
 | توضیح | تصویر |
 |--------|--------|
 | میزان مصرف RAM در Task Manager | ![RAM Usage](RAM_Diagnostic.png) |
-| بررسی سلامت رم و برنامه‌های حجیم | ![RAM Apps](RAM_Test.png) |
+|*Initial RAM recognition check – Modules detected, no primary errors found* | ![RAM Apps](RAM_Test.png) |
 
 ## 🎯 نتیجه
 RAM در وضعیت پایدار قرار دارد و مشکل کندی از کمبود حافظه یا مصرف غیرعادی نبود.
+
 
 
 
