@@ -24,7 +24,7 @@
 
 |--------|--------|
 
-| مانیتورینگ CPU در Task Manager | ![CPU Monitor](./03_CPU_Test/CPU_Monitor.png)
+| مانیتورینگ CPU در Task Manager | ![CPU Monitor](./03_CPU_Monitor/CPU_Monitor.png)
  |
 
 | |
